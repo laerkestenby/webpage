@@ -1,6 +1,6 @@
 ---
-name: Manuel Mounr Demetry Thomasen
-image: images/photo.jpg
+name: Manuel Mounir Demetry Thomasen
+image: images/manuel-thomasen.jpg
 role: Research Assistant
 aliases:
   - MMD. Thomasen
