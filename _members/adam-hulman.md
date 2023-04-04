@@ -1,6 +1,6 @@
 ---
 name: Adam Hulman
-image: images/photo.jpg
+image: images/adam-hulman.jpg
 role: PI
 aliases: A. Hulman
 group: Hulman-lab
