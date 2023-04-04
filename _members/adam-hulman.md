@@ -2,7 +2,7 @@
 name: Adam Hulman
 image: images/photo.jpg
 role: PI
-abbreviation: A. Hulman
+aliases: A. Hulman
 group: Hulman-lab
 links:
   github: 
