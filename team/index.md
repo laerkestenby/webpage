@@ -26,8 +26,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/adam-hulman.jpg" %}
+{% include figure.html image="images/manuel-thomasen.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
