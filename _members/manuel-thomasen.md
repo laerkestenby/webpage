@@ -6,7 +6,7 @@ role: Undergraduate Student
 aliases:
   - MMD. Thomasen
 links:
-  home-page: https://www.linkedin.com/in/manuel-thomasen/
+  linkedin: manuel-thomasen
   orcid: 0000-0002-9379-4617
 ---
 
