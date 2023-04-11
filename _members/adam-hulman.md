@@ -7,7 +7,7 @@ aliases: A. Hulman
 group: Hulman-lab
 links:
   github: 
-  LinkedIn: adam-hulman-aaa8b6175
+  linkedin: adam-hulman-aaa8b6175
   orcid: 0000-0002-3969-1000
 ---
 
