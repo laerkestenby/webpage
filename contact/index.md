@@ -25,7 +25,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 %}
 {%
   include button.html
-  type="Address"
+  type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://goo.gl/maps/zRXmXWTvNAdV4iF59"
 %}
