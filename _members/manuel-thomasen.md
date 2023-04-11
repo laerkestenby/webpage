@@ -6,7 +6,7 @@ role: undergrad
 aliases:
   - MMD. Thomasen
 links:
-  LinkedIn: manuel-thomasen
+  linkedin: manuel-thomasen
   orcid: 0000-0002-9379-4617
 ---
 
