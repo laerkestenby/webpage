@@ -1,7 +1,8 @@
 ---
 name: Adam Hulman
 image: images/adam-hulman.jpg
-description: PI
+description: Principal Investigator
+role: Principal Investigator
 aliases: A. Hulman
 group: Hulman-lab
 links:
