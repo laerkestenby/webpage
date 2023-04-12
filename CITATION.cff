@@ -11,4 +11,10 @@ authors:
   - family-names: "Greene"
     given-names: "Casey"
     orcid: "https://orcid.org/0000-0001-8713-9213"
+  - family-names: "Hulman"
+    given-names: "Adam"
+    orcid: "https://orcid.org/0000-0002-3969-1000"
+  - family-names: "Thomasen"
+    given-names: "Manuel"
+    orcid: "https://orcid.org/0000-0002-9379-4617"
 cff-version: 1.2.0
