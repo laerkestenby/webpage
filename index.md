@@ -1,9 +1,9 @@
 ---
 ---
 
-# Hulman Lab
+# Machine learning with a clinical purpose
 
-An engaging 1-3 sentence description of your lab.
+The Hulman Lab is an interdisciplinary group of researchers at Steno Diabetes Center Aarhus, Denmark, with a shared passion for data science. We believe that applying machine learning methods to multimodal data from epidemiological cohorts and the healthcare sector can provide clinical insights and more comprehensive profiling of clinical risk. 
 
 {% include section.html %}
 
@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Our research"
   text=text
 %}
 
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our projects"
   flip=true
   style="bare"
   text=text
