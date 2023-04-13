@@ -111,3 +111,41 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+- id: 10.1155/2022/6822385
+  title: 'The Faroe Islands COVID-19 Recreational Football Study: Player-to-Player
+    Distance, Body-to-Body Contact, Body-to-Ball Contact and Exercise Intensity during
+    Various Types of Football Training for Both Genders and Various Age Groups'
+  authors:
+  - Magni Mohr
+  - "T\xF3rur Sj\xFAr\xF0arson"
+  - Eli N. Leifsson
+  - Morten B. Randers
+  - Nikolas Sten Knudsen
+  - Manuel Mounir Demetry Thomasen
+  - Jeppe Panduro
+  - Malte Nejst Larsen
+  - Thomas Bull Andersen
+  - Peter Krustrup
+  publisher: BioMed Research International
+  date: '2022-03-17'
+  link: https://doi.org/gr4vqq
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1136/bmjsem-2020-000911
+  title: 'Danger zone assessment in small-sided recreational football: providing data
+    for consideration in relation to COVID-19 transmission'
+  authors:
+  - Morten B Randers
+  - Nikolas Sten Knudsen
+  - Manuel Mounir Demetry Thomasen
+  - Jeppe Panduro
+  - Malte Nejst Larsen
+  - Magni Mohr
+  - Zoran Milanovic
+  - Peter Krustrup
+  - Thomas Bull Andersen
+  publisher: BMJ Open Sport &amp; Exercise Medicine
+  date: '2021-01-01'
+  link: https://doi.org/gr4vqr
+  plugin: sources.py
+  file: sources.yaml
