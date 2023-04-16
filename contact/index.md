@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is part of Steno Diabetes Center Aarhus and affiliated with the Department of Public Health, Aarhus University. We are located on the 3rd & 4th floors of the Forum building at Aarhus University Hospital.
 
 {%
   include button.html
