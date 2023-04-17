@@ -28,6 +28,11 @@ mascot:
 
 # general
 
+newsletter:
+  icon: fa-solid fa-envelope
+  text: Link
+  tooltip: Link
+
 link:
   icon: fa-solid fa-globe
   text: Link
