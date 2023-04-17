@@ -2,7 +2,7 @@
 name: Post Doc (Soon to be announced)
 image: images/photo.jpg
 description: Post Doc
-role: postdoc
+role: Postdoctoral Researcher
 links:
   email: 
   twitter: 
