@@ -14,6 +14,10 @@ phd:
   icon: fa-solid fa-desktop
   description: PhD Student
 
+Research Assistant:
+  icon: fa-solid fa-calculator
+  description: Research Assistant
+  
 undergrad:
   icon: fa-solid fa-laptop
   description: Undergraduate Student
@@ -25,10 +29,6 @@ programmer:
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
-  
-Research Assistant:
-  icon: fa-solid fa-calculator
-  description: Research Assistant
 
 # general
 
