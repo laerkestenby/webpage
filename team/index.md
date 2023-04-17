@@ -16,16 +16,12 @@ Our lab shares the passion for data science and a thrive to make a difference fo
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Subscribe to our newsletter to hear among the first ones about job opening, contact Adam if you are interested in joining us or collaborating with us.
+Subscribe to our [newsletter](https://mailchi.mp/rm/hulman-lab-newsletter) to hear among the first ones about job opening, contact Adam if you are interested in joining us or collaborating with us.
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/adam-hulman.jpg" %}
-{% include figure.html image="images/manuel-thomasen.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+# {% include icon.html icon="fa-solid fa-users" %}Student Club
 
 {% endcapture %}
-
-{% include grid.html style="square" content=content %}
