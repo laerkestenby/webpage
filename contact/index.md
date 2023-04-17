@@ -29,6 +29,12 @@ Subscribe to our newsletter to get notified about job openings, or contact Adam 
   tooltip="Our location on Google Maps for easy navigation"
   link="https://goo.gl/maps/zRXmXWTvNAdV4iF59"
 %}
+{%
+  include button.html
+  type="newsletter"
+  text="Subscribe to our Newsletter"
+  link="https://mailchi.mp/rm/hulman-lab-newsletter"
+%}
 
 {% include section.html %}
 
