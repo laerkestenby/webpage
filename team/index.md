@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab shares the passion for data science and a thrive to make a difference for people with diabetes. We come from diverse backgrounds (data science, engineering, epidemiology, mathematics, medicine, sport science) and enjoy collaborations across disciplines. We aim to create a professional working environment that embraces our differences, encourages out-of-the-box thinking, and where there is a place for the famous Danish ‘hygge’.
 
 {% include section.html %}
 
@@ -18,9 +16,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Subscribe to our newsletter to hear among the first ones about job opening, contact Adam if you are interested in joining us or collaborating with us.
 
 {% include section.html %}
 
