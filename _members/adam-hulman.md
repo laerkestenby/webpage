@@ -7,7 +7,7 @@ aliases: A. Hulman
 group: Hulman-lab
 links:
   email: adahul@rm.dk
-  github: https://github.com/ahulman
+  github: ahulman
   linkedin: adam-hulman-aaa8b6175
   orcid: 0000-0002-3969-1000
 ---
