@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/buildingbridges.jpeg"
   link="research"
   title="Building Bridges"
   text=text
@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/newperspective.jpeg"
   link="projects"
   title="New Perspective"
   flip=true
