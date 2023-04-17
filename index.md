@@ -21,14 +21,14 @@ Our group members represent a wide range of scientific profiles from data scienc
   include feature.html
   image="images/buildingbridges.jpeg"
   link="research"
-  title="Building Bridges"
+  title="Building bridges"
   text=text
   caption="Den Uendelige Bro"
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Machine learning methods can help us to transfer knowledge between domains, e.g. from epidemiology to clinical research. We aim to repurpose models developed in epidemiological cohorts with deep phenotyping into clinical tools based on clinical cohorts with routinely collected information and linkages to the Danish registries. 
 
 {% endcapture %}
 
@@ -36,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/newperspective.jpeg"
   link="projects"
-  title="New Perspective"
+  title="New perspectives"
   flip=true
   style="bare"
   text=text
@@ -45,15 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See what we've published"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
+We are based at a Danish hospital, which gives us valuable insights into the healthcare system. We aim to identify relevant needs and develop data-driven tools to tackle these challenges. In this process, beyond the scientific community, we interact with stakeholders, clinicians and patients.
 
 {% endcapture %}
 
@@ -61,6 +53,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="patients in focus"
+  title="Patient-centered"
   text=text
 %}
