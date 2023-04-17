@@ -7,13 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is part of Steno Diabetes Center Aarhus and affiliated with the Department of Public Health, Aarhus University. We are located on the 3rd & 4th floors of the Forum building at Aarhus University Hospital.
+Our lab is part of [Steno Diabetes Center Aarhus](#https://www.stenoaarhus.dk/) and affiliated with the [Department of Public Health, Aarhus University](#https://ph.au.dk/). We are located on the 3rd & 4th floors of the Forum building at Aarhus University Hospital.
 
-Subscribe to our newsletter to get notified about job openings, or contact Adam if you are interested in joining our research group or collaborating with us. We also welcome foreign researchers for shorter visits with several funding options.
-
-[click on this link](#my-multi-word-header)
-
-### My Multi Word Header
+Subscribe to our [newsletter](#https://mailchi.mp/rm/hulman-lab-newsletter) to get notified about job openings, or contact Adam if you are interested in joining our research group or collaborating with us. We also welcome foreign researchers for shorter visits with several funding options.
 
 {%
   include button.html
