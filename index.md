@@ -30,7 +30,7 @@ Our group members represent a wide range of scientific profiles from data scienc
   link="research"
   title="Building bridges"
   text=text
-  caption="Infinity Bridge, Aarhus, Denmark"
+  caption="Infinity Bridge, Aarhus"
 %}
 
 {% capture text %}
@@ -47,7 +47,7 @@ Machine learning methods can help us to transfer knowledge between domains, e.g.
   flip=true
   style="bare"
   text=text
-  caption="Your rainbow panorama, ARoS Museum, Aarhus"
+  caption="ARoS Museum, Aarhus"
 %}
 
 {% capture text %}
@@ -62,5 +62,5 @@ We are based at a Danish hospital, which gives us valuable insights into the hea
   link="research"
   title="Patient-centered"
   text=text
-  caption="Picture by Tonny Foghmar"
+  caption="Aarhus University Hospital (Picture by Tonny Foghmar)"
 %}
