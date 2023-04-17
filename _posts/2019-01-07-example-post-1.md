@@ -1,10 +1,8 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: Welcome...
+author: adam
 tags:
-  - biology
-  - medicine
-  - big data
+  - news
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
