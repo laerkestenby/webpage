@@ -23,7 +23,7 @@ Our group members represent a wide range of scientific profiles from data scienc
   link="research"
   title="Building bridges"
   text=text
-  caption="Den Uendelige Bro"
+  caption="Infinity Bridge, Aarhus, Denmark"
 %}
 
 {% capture text %}
@@ -40,7 +40,7 @@ Machine learning methods can help us to transfer knowledge between domains, e.g.
   flip=true
   style="bare"
   text=text
-  caption="Your rainbow panorama, ARoS "
+  caption="Your rainbow panorama, ARoS Museum, Aarhus"
 %}
 
 {% capture text %}
