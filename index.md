@@ -6,11 +6,7 @@
 The Hulman Lab is an interdisciplinary group of researchers at Steno Diabetes Center Aarhus, Denmark, with a shared passion for data science. We believe that applying machine learning methods to multimodal data from epidemiological cohorts and the healthcare sector can provide clinical insights and more comprehensive profiling of clinical risk. 
 
 {%
-  include feature.html
   image="images/group.jpg"
-  link="team"
-  title="Our gruop"
-  text=text
 %}
 
 {% include section.html %}
