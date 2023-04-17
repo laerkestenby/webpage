@@ -1,5 +1,5 @@
 
-# Hulman Labs Website
+# Hulman Lab's Website
 
 Visit **[hulmanlab.com](http://hulmanlab.com)** 🚀
 
