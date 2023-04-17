@@ -9,11 +9,11 @@ The Hulman Lab is an interdisciplinary group of researchers at Steno Diabetes Ce
 
 {% include section.html %}
 
-## Goals
+## Our vision
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our group members represent a wide range of scientific profiles from data science, mathematics to sport science and medicine. We aim to combine our skills in interdisciplinary projects and then communicate our findings to both research communities.
 
 {% endcapture %}
 
