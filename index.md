@@ -23,6 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   link="research"
   title="Building Bridges"
   text=text
+  caption="Den Uendelige Bro"
 %}
 
 {% capture text %}
@@ -39,6 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
   text=text
+  caption="Your rainbow panorama, ARoS "
 %}
 
 {% capture text %}
