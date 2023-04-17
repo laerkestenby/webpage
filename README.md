@@ -1,5 +1,5 @@
 
-# ManuThomasen's Website
+# Hulman Labs Website
 
 Visit **[hulmanlab.com](http://hulmanlab.com)** 🚀
 
