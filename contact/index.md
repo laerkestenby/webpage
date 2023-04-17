@@ -11,6 +11,10 @@ Our lab is part of Steno Diabetes Center Aarhus and affiliated with the Departme
 
 Subscribe to our newsletter to get notified about job openings, or contact Adam if you are interested in joining our research group or collaborating with us. We also welcome foreign researchers for shorter visits with several funding options.
 
+[click on this link](#my-multi-word-header)
+
+### My Multi Word Header
+
 {%
   include button.html
   type="email"
