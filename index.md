@@ -58,8 +58,9 @@ We are based at a Danish hospital, which gives us valuable insights into the hea
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Patientcentered.jpg"
   link="research"
   title="Patient-centered"
   text=text
+  caption="Picture by Tonny Foghmar"
 %}
