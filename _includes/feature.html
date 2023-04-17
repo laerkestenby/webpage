@@ -17,13 +17,14 @@
       alt="{{ include.title | default: "feature image" }}"
       {% include fallback.html %}
     >
-  <a
+    <a
     {% if include.caption %}
       <figcaption class="figure-caption">
         {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
       </figcaption>
     {% endif %}
     >
+    </a>
   </a>
   <div class="feature-text">
     {% if include.title %}
