@@ -7,7 +7,7 @@ The Hulman Lab is an interdisciplinary group of researchers at Steno Diabetes Ce
 
 {%
   include button.html
-  type="link"
+  type="newsletter"
   text="Subscribe to newsletter"
   link="https://mailchi.mp/rm/hulman-lab-newsletter"
 %}
