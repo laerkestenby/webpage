@@ -26,7 +26,7 @@ Our group members represent a wide range of scientific profiles from data scienc
 
 {%
   include feature.html
-  image="images/buildingbridges.jpeg"
+  image="images/buildingbridges.jpg"
   link="research"
   title="Building bridges"
   text=text
@@ -41,7 +41,7 @@ Machine learning methods can help us to transfer knowledge between domains, e.g.
 
 {%
   include feature.html
-  image="images/newperspective.jpeg"
+  image="images/newperspective.jpg"
   link="projects"
   title="New perspectives"
   flip=true
