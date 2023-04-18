@@ -1,7 +1,7 @@
 ---
-name: Post Doc (Soon to be announced)
+name: revealed soon
 image: images/photo.jpg
-description: Postdoctoral Researcher
+description: Postdoc
 role: postdoc
 links:
   email: 
