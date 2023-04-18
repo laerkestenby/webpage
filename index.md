@@ -27,7 +27,6 @@ Our group members represent a wide range of scientific profiles from data scienc
 {%
   include feature.html
   image="images/buildingbridges.jpg"
-  link="research"
   title="Building bridges"
   text=text
   caption="Infinity Bridge, Aarhus"
@@ -42,7 +41,6 @@ Machine learning methods can help us to transfer knowledge between domains, e.g.
 {%
   include feature.html
   image="images/newperspective.jpg"
-  link="projects"
   title="New perspectives"
   flip=true
   style="bare"
@@ -59,7 +57,6 @@ We are based at a Danish hospital, which gives us valuable insights into the hea
 {%
   include feature.html
   image="images/Patientcentered.jpg"
-  link="research"
   title="Patient-centered"
   text=text
   caption="Aarhus University Hospital (Photo: Tonny Foghmar)"
