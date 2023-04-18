@@ -1,6 +1,6 @@
 ---
-name: revealed soon
-image: images/photo.jpg
+name: announced soon
+image: images/photo_computer.png
 description: Postdoc
 role: postdoc
 links:
@@ -10,4 +10,4 @@ links:
   linkedin:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+coming soon
