@@ -1,6 +1,6 @@
 ---
 name: announced soon
-image: images/photo_computer.png
+
 description: Postdoc
 role: postdoc
 links:
