@@ -3,6 +3,7 @@ name: Manuel Mounir Demetry Thomasen
 image: images/manuel-thomasen.jpg
 description: Research Assistant
 role: Research Assistant
+icon: fa-solid fa-futbol
 aliases:
   - MMD. Thomasen
 links:
