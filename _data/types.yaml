@@ -1,5 +1,18 @@
 # map general type to default/fallback icon, text, etc.
 
+# team member Custom roles
+adamhulman:
+  icon: fa-solid fa-square-root-variable
+  description: Principal Investigator
+  
+manuelthomasen:
+  icon: fa-solid fa-futbol
+  description: Research Assistant
+
+anders:
+  icon: fa-solid fa-stethoscope
+  description: Postdoctoral Researcher
+  
 # team member roles
 
 pi:
