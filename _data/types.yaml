@@ -1,5 +1,27 @@
 # map general type to default/fallback icon, text, etc.
 
+# Fields of science/topics
+maths:
+  icon: fa-solid fa-square-root-variable
+
+data science:
+  icon: fa-solid fa-computer
+
+computer science:
+  icon: fa-solid fa-computer
+
+sport science:
+  icon: fa-solid fa-basketball
+
+engineering:
+  icon: fa-solid fa-gears
+
+medicin:
+  icon: fa-solid fa-stethoscope
+
+bioinformatics:
+  icon: fa-solid fa-dna
+
 # team member Custom roles
 adamhulman:
   icon: fa-solid fa-square-root-variable
