@@ -57,7 +57,7 @@ We are based at a Danish hospital, which gives us valuable insights into the hea
 {%
   include feature.html
   image="images/Patientcentered.jpg"
-  title="Patient-centered"
+  title="Patient-centered research"
   text=text
   caption="Aarhus University Hospital (Photo: Tonny Foghmar)"
 %}
