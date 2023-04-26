@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/preview/pr-8/feed.xml" rel="self" type="application/atom+xml" /><link href="/preview/pr-8/" rel="alternate" type="text/html" /><updated>2023-04-26T17:34:26+00:00</updated><id>/preview/pr-8/feed.xml</id><title type="html">Hulman Lab</title><subtitle>Machine learning with a clinical purpose.</subtitle><entry><title type="html">Launching our website and newsletter</title><link href="/preview/pr-8/2023/04/18/website-launch.html" rel="alternate" type="text/html" title="Launching our website and newsletter" /><published>2023-04-18T00:00:00+00:00</published><updated>2023-04-26T17:33:22+00:00</updated><id>/preview/pr-8/2023/04/18/website-launch</id><content type="html" xml:base="/preview/pr-8/2023/04/18/website-launch.html"><![CDATA[<h2 id="insert-some-interesting-sub-title-here">Insert some interesting sub-title here!</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/preview/pr-8/feed.xml" rel="self" type="application/atom+xml" /><link href="/preview/pr-8/" rel="alternate" type="text/html" /><updated>2023-04-26T17:35:24+00:00</updated><id>/preview/pr-8/feed.xml</id><title type="html">Hulman Lab</title><subtitle>Machine learning with a clinical purpose.</subtitle><entry><title type="html">Launching our website and newsletter</title><link href="/preview/pr-8/2023/04/18/website-launch.html" rel="alternate" type="text/html" title="Launching our website and newsletter" /><published>2023-04-18T00:00:00+00:00</published><updated>2023-04-26T17:34:25+00:00</updated><id>/preview/pr-8/2023/04/18/website-launch</id><content type="html" xml:base="/preview/pr-8/2023/04/18/website-launch.html"><![CDATA[<h2 id="insert-some-interesting-sub-title-here">Insert some interesting sub-title here!</h2>
 
 <p>It is important for us to launch a <a href="https://hulmanlab.com">website</a> and a <a href="https://mailchi.mp/rm/hulman-lab-newsletter">newsletter</a>, 
 because we’d like to extend our communication beyond publishing scientific articles and presenting at conferences. 
@@ -10,54 +10,6 @@ We will use these channels to give a better picture of who we are, what projects
   background: ;
   dark: ;
   size: ;
--->]]></content><author><name>Adam</name></author><category term="news" /><summary type="html"><![CDATA[Insert some interesting sub-title here!]]></summary></entry><entry><title type="html">Example post 3</title><link href="/preview/pr-8/2023/02/23/example-post-3.html" rel="alternate" type="text/html" title="Example post 3" /><published>2023-02-23T00:00:00+00:00</published><updated>2023-04-26T17:33:22+00:00</updated><id>/preview/pr-8/2023/02/23/example-post-3</id><content type="html" xml:base="/preview/pr-8/2023/02/23/example-post-3.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>john-doe</name></author><category term="biology," /><category term="medicine" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry><entry><title type="html">Welcome…</title><link href="/preview/pr-8/2019/01/07/example-post-1.html" rel="alternate" type="text/html" title="Welcome…" /><published>2019-01-07T00:00:00+00:00</published><updated>2023-04-26T17:33:22+00:00</updated><id>/preview/pr-8/2019/01/07/example-post-1</id><content type="html" xml:base="/preview/pr-8/2019/01/07/example-post-1.html"><![CDATA[<h2 id="discovering-the-beauty-of-math-and-the-fun-of-computer-science">Discovering the beauty of math and the fun of computer science</h2>
+-->]]></content><author><name>Adam</name></author><category term="news" /><summary type="html"><![CDATA[Insert some interesting sub-title here!]]></summary></entry><entry><title type="html">Example post 3</title><link href="/preview/pr-8/2023/02/23/example-post-3.html" rel="alternate" type="text/html" title="Example post 3" /><published>2023-02-23T00:00:00+00:00</published><updated>2023-04-26T17:34:25+00:00</updated><id>/preview/pr-8/2023/02/23/example-post-3</id><content type="html" xml:base="/preview/pr-8/2023/02/23/example-post-3.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>john-doe</name></author><category term="biology," /><category term="medicine" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry><entry><title type="html">Welcome…</title><link href="/preview/pr-8/2019/01/07/example-post-1.html" rel="alternate" type="text/html" title="Welcome…" /><published>2019-01-07T00:00:00+00:00</published><updated>2023-04-26T17:34:25+00:00</updated><id>/preview/pr-8/2019/01/07/example-post-1</id><content type="html" xml:base="/preview/pr-8/2019/01/07/example-post-1.html"><![CDATA[<h2 id="some-exciting-header">Some exciting header</h2>
 
-<p>My mother saw math in everything around us; in the geometry of a bridge we drove across, in the permutations of numbers that make up my birthday.
-Growing up she would get excited as she explained the solution to a math problem.
-She would tell me that <em>math is beautiful</em>.
-As a high school student, I remember thinking that math was simply a graduation requirement.
-However my understanding and appreciation for math soon changed.
-After taking an applied mathematics course in college (Bryn Mawr College), I discovered how math paired with computer science could be used to model and solve real world problems such as predicting the spread of influenza virus through a population given different control measures such as antiviral drugs.
-This course introduced me to mathematical concepts that allowed me to make quasi-discoveries within a simplified dynamical system.
-I found the beauty in math was combining it with computer science to translate science and research to clinical applications – It was exciting that I could make discoveries about seal populations with a few lines of code and some math equations!</p>
-
-<p>I started to actively pursue opportunities to continue applying computational methods to science problems.
-This eventually lead to me to start a graduate degree program in Genomics and Computational Biology at the University of Pennsylvania in 2017.
-In 2018, I joined Casey Greene’s lab, which has a lot of expertise in using deep learning methods to study biology.
-Despite having a computational background, I had a lot to learn about what deep learning was.
-Additionally, my educational background was purely computational and so I also needed to learn biology – in my first graduate course I remember my first question was “what is a gene?”</p>
-
-<p>After a long journey, I have published a <a href="https://www.biorxiv.org/content/10.1101/2020.05.03.066597v1">paper</a> using a generative multi-layer neural network to simulate compendia of gene expression experiments from large-scale microbial and human datasets.
-I have contributed to a community-written <a href="https://github.com/Benjamin-Lee/deep-rules">manuscript</a> about tips for using deep learning in biology.
-Overall, my dissertation research has focused on using deep learning methods to extract patterns from large-scale gene expression datasets.
-I am currently applying these methods to understand mechanisms of <em>P.aeruginosa</em> infection.
-My goal is to develop methods that help gain insight into the complexities of disease traits.
-You can find my current research projects on my <a href="https://github.com/ajlee21">github page</a>.</p>
-
-<!-- section break -->
-<!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
-<h2 id="deep-learning-in-biology-workshop">Deep learning in biology workshop</h2>
-
-<p>To celebrate and pass on the knowledge, my lab mate, <a href="https://ben-heil.github.io/">Ben Heil</a> and <a href="https://twitter.com/localee_compact">I</a> are hosting a <a href="https://ben-heil.github.io/2020-10-08-workshop/">“Deep Learning for Biologists Workshop”</a>.</p>
-
-<p>For biologists with no computational background, we hope that after this course:</p>
-
-<ol>
-  <li>You will have an idea of what deep learning is</li>
-  <li>You will be inspired to find applications of deep learning in your own research</li>
-</ol>
-
-<p>For those with some computational background, you will also gain an intuitive sense for how these methods work with a little bit of math (what else would you expect from a former math major).</p>
-
-<p>We know the idea of deep learning feels very daunting, but we know that you can learn this too!</p>
-
-<p>Come join us <strong>Thursday, October 29 at 11am - 2pm EST.</strong></p>
-
-<p>Registration can be found <a href="https://ben-heil.github.io/2020-10-08-workshop/">here</a></p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>adam</name></author><category term="news" /><summary type="html"><![CDATA[Discovering the beauty of math and the fun of computer science]]></summary></entry></feed>
+<p>AND SOME TEXT</p>]]></content><author><name>adam</name></author><category term="news" /><summary type="html"><![CDATA[Some exciting header]]></summary></entry></feed>
