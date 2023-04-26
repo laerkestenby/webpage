@@ -2,7 +2,7 @@
 name: Anders Aasted Isaksen
 image: images/anders-isaksen.jpg
 description: Postdoc
-role: medicin
+role: andersisaksen
 links:
   email: andaas@rm.dk
   linkedin: aaisaksen
