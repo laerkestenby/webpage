@@ -9,8 +9,6 @@ nav:
 
 Our lab shares the passion for data science and a thrive to make a difference for people with diabetes. We come from diverse backgrounds (data science, engineering, epidemiology, mathematics, medicine, sport science) and enjoy collaborations across disciplines. We aim to create a professional working environment that embraces our differences, encourages out-of-the-box thinking, and where there is a place for the famous Danish ‘hygge’.
 
-We currently have an open **postdoc** position. Details and application form [here](https://midtjob.dk/ad/researcher-in-machine-learning-and-clinical-prediction-at-steno-diabetes-center-a/xul9ac).
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
