@@ -3,6 +3,9 @@ title: Welcome...
 author: adam
 tags:
   - news
+icon: fa-solid fa-book
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## Some exciting header
+
+AND SOME TEXT
