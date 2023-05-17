@@ -23,15 +23,6 @@ You can find links to our SoMe accounts on our personal profile pages under the 
 %}
 
 ## Upcoming events
-### Steno AI Art Cafe
-**Date, time** May 16, 15-16
-
-**Location** Krearummet, Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)
-
-**Description** We will meet for an informal workshop introducing participants to an AI tool called Midjourney. In Midjourney, users can generate images using text prompts describing their vision. After a short introduction to prompting and some of the features the program has, we will try Midjourney in smaller groups of 3-4 and create images around a theme relevant from a health perspective. At the end, we will share the generated images with each other and discuss how the experience of using AI was and how we could integrate such tools in our daily work.
-
-**Registration** Please e-mail [Adam](mailto:adahul@rm.dk). Participation requires an affiliation to Steno Aarhus. 
-
 ### Steno AI Journal Club
 **Date, time** May 23, 15-16
 
@@ -44,4 +35,12 @@ Association is not prediction: A landscape of confused reporting in diabetes - A
 
 **Registration** NOT needed. The event is open for anyone, not just for them affiliated with Steno Aarhus. 
 
+## Past events
+### Steno AI Art Cafe
+**Date, time** May 16, 15-16
+
+**Location** Krearummet, Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)
+
+**Description** We will meet for an informal workshop introducing participants to an AI tool called Midjourney. In Midjourney, users can generate images using text prompts describing their vision. After a short introduction to prompting and some of the features the program has, we will try Midjourney in smaller groups of 3-4 and create images around a theme relevant from a health perspective. At the end, we will share the generated images with each other and discuss how the experience of using AI was and how we could integrate such tools in our daily work.
+ 
 {% include float.html clear=true %}
