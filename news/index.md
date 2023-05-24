@@ -23,6 +23,9 @@ You can find links to our SoMe accounts on our personal profile pages under the 
 %}
 
 ## Upcoming events
+Stay tuned.
+
+## Past events
 ### Steno AI Journal Club
 **Date, time** May 23, 15-16
 
@@ -33,9 +36,6 @@ We will discuss the basic concepts of association and prediction which are often
 Just read the following [paper](https://pubmed.ncbi.nlm.nih.gov/33068662/) beforehand and gather your thoughts and questions:
 Association is not prediction: A landscape of confused reporting in diabetes - A systematic review by Tibor V. Varga et al.
 
-**Registration** NOT needed. The event is open for anyone, not just for them affiliated with Steno Aarhus. 
-
-## Past events
 ### Steno AI Art Cafe
 **Date, time** May 16, 15-16
 
