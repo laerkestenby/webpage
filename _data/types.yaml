@@ -34,7 +34,19 @@ manuelthomasen:
 andersisaksen:
   icon: fa-solid fa-stethoscope
   description: Postdoctoral Researcher
-  
+
+benjaminjohansen:
+  icon: fa-solid fa-gears
+  description: Postdoctoral Researcher
+
+yumengli:
+  icon: fa-solid fa-laptop-medical
+  description: PhD Student
+
+helenethomsen:
+  icon: fa-solid fa-heart-pulse
+  description: PhD Student
+
 # team member roles
 
 pi:
