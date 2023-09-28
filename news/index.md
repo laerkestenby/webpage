@@ -32,20 +32,11 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Article** Li Y et al. *Consistency of variety of machine learning and statistical models in predicting clinical risks of individual patients: longitudinal cohort study using cardiovascular disease as exemplar* BMJ 2020;371:m3919 [link](https://www.bmj.com/content/371/bmj.m3919) 
 
 <details>
-  <summary><b>Brainstorm bullets/roadmap for discussion(TBA)</b></summary>  
-  1. General aspects
-    * ?
-     * ?
-  2. Technical aspects
-    * ?
-    * ?
-  3. Results
-    * ?
-    * ?
-  4. Clinical aspects
-    * ?
-    * What is the clinical use-case or value from the paper?
+  <summary><b>Roadmap for discussion</b></summary>  
+  Questions will be added a few days before the event.
 </details>
+
+
 
 **Date, time** Nov 20, 12-13
 
@@ -53,20 +44,11 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **Article** Varoquauxet G & Cheplygina V. *Machine learning for medical imaging: methodological failures and recommendations for the future* npj Digital Medicine 2022; 5:48 [link](https://www.nature.com/articles/s41746-022-00592-y)
 <details>
-  <summary><b>Brainstorm bullets/roadmap for discussion(TBA)</b></summary>  
-  1. General aspects
-    * ?
-     * ?
-  2. Technical aspects
-    * ?
-    * ?
-  3. Results
-    * ?
-    * ?
-  4. Clinical aspects
-    * ?
-    * What is the clinical use-case or value from the paper?
+  <summary><b>Roadmap for discussion</b></summary>  
+  Questions will be added a few days before the event.
 </details>
+
+
 
 **Date, time** Dec 18, 12-13
 
@@ -74,19 +56,8 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **Article** Vistisen D et al. *Prediction of First Cardiovascular Disease Event in Type 1 Diabetes Mellitus* Circulation 2016; 133:1058–1066 [link](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.115.018844)
 <details>
-  <summary><b>Brainstorm bullets/roadmap for discussion(TBA)</b></summary>  
-  1. General aspects
-    * ?
-     * ?
-  2. Technical aspects
-    * ?
-    * ?
-  3. Results
-    * ?
-    * ?
-  4. Clinical aspects
-    * ?
-    * What is the clinical use-case or value from the paper?
+  <summary><b>Roadmap for discussion</b></summary>  
+  Questions will be added a few days before the event.
 </details>
  
 {% include float.html clear=true %}
