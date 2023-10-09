@@ -22,7 +22,7 @@ By asking end users (patients, clinicians) about their perception of AI, e.g. ho
 Wibaek R, Andersen GS, Dahm CC, Witte DR, Hulman A\
 JMIR Med Inform 2023;11:e43638 doi: [10.2196/43638](https://medinform.jmir.org/2023/1/e43638)
 ### ChatGPT- versus human-generated answers to frequently asked questions about diabetes: A Turing test-inspired survey among employees of a Danish diabetes center
-Hulman A, Dollerup OL, Mortensen JF, Fenech ME, Norman K, Støvring H, et al. (2023)\
+Hulman A, Dollerup OL, Mortensen JF, Fenech ME, Norman K, Støvring H, et al. (2023) \
 PLoS ONE 18(8): e0290773. [https://doi.org/10.1371/journal.pone.0290773](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290773)
 ### Perception of artificial intelligence-based solutions in healthcare among people with and without diabetes: A cross-sectional survey from the health in Central Denmark cohort
 Jonas F.R. Schaarup, Ravi Aggarwal, Else-Marie Dalsgaard, Kasper Norman, Ole Lindgård Dollerup, Hutan Ashrafian, Daniel R. Witte, Annelli Sandbæk, Adam Hulman,\
