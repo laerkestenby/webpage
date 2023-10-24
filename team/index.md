@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Our lab shares the passion for data science and a thrive to make a difference for people with diabetes. We come from diverse backgrounds (data science, engineering, epidemiology, mathematics, medicine, sport science) and enjoy collaborations across disciplines. We aim to create a professional working environment that embraces our differences, encourages out-of-the-box thinking, and where there is a place for the famous Danish ‘hygge’.
+Our lab shares the passion for data science and a thrive to make a difference for people with diabetes. We come from diverse backgrounds (data science, engineering, epidemiology, mathematics, medicine, sport science) and enjoy collaborations across disciplines. We aim to create a professional working environment that embraces our differences, encourages out-of-the-box thinking (sometimes using LEGO(R) bricks), and where there is a place for the famous Danish ‘hygge’.
 
 {% include section.html %}
 
