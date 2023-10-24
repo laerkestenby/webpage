@@ -2,13 +2,13 @@
 title: News
 nav:
   order: 4
-  tooltip: News, announcements...
+  tooltip: News, events, ...
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-Our ambition is to share major announcements, results and events on this page. While the website development is still in progress, follow us on social media. 
-You can find links to our SoMe accounts on our personal profile pages under the [Team](https://hulmanlab.com/team/) tab.
+Our ambition is to share major announcements, results and events on this page. While the website development is still in progress, [sign up](https://mailchi.mp/rm/hulman-lab-newsletter) to our newsletter and read our previous newsletters. 
+Also, you can find links to our SoMe accounts on our personal profile pages under the [Team](https://hulmanlab.com/team/) tab.
 
 {% include section.html %}
 
@@ -21,6 +21,10 @@ You can find links to our SoMe accounts on our personal profile pages under the 
   content=content
   flip=true
 %}
+
+## Previous Newsletters
+[October, 2023](https://mailchi.mp/rm/frrdr0n5n5)
+[June, 2023](https://mailchi.mp/rm/off-to-a-good-start)
 
 ## Machine Learning & Clinical Prediction Journal Club
 The MLCP journal club is a monthly, interdisciplinary journal club for anyone interested in machine learning and/or clinical prediction.  We cover technical aspects, but the focus is ultimately on the practical, clinical use-cases of machine learning (e.g. for clinical prediction of cardiovascular disease), where we dissect pitfalls and limitations to cut through the hype. Anyone can join the journal club (e.g. students, clinicians, researchers from outside of Steno Aarhus), the only expectation is that you read the actual article before joining and come with an open mindset.
