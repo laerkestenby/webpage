@@ -9,7 +9,6 @@ nav:
 
 Our ambition is to share major announcements, results and events on this page. While the website development is still in progress, [sign up](https://mailchi.mp/rm/hulman-lab-newsletter) to our newsletter and read our previous newsletters. 
 Also, you can find links to our SoMe accounts on our personal profile pages under the [Team](https://hulmanlab.com/team/) tab.
-
 {% include section.html %}
 
 {% capture content %}
@@ -24,6 +23,7 @@ Also, you can find links to our SoMe accounts on our personal profile pages unde
 
 ## Previous Newsletters
 [October, 2023](https://mailchi.mp/rm/frrdr0n5n5)
+
 [June, 2023](https://mailchi.mp/rm/off-to-a-good-start)
 
 ## Machine Learning & Clinical Prediction Journal Club
