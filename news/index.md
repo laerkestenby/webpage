@@ -34,8 +34,8 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Varoquauxet G & Cheplygina V. *Machine learning for medical imaging: methodological failures and recommendations for the future* npj Digital Medicine 2022; 5:48 [link](https://www.nature.com/articles/s41746-022-00592-y)
 <details align = "left">
-  <summary><b>Roadmap for discussion</b></summary>  
-  Questions will be added a few days before the event.
+  <summary><b>Notes from the discussion</b></summary>  
+  Notes will be added after the event.
 </details>
 <br>
 
@@ -43,8 +43,8 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Vistisen D et al. *Prediction of First Cardiovascular Disease Event in Type 1 Diabetes Mellitus* Circulation 2016; 133:1058–1066 [link](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.115.018844)
 <details align = "left">
-  <summary><b>Roadmap for discussion</b></summary>  
-  Questions will be added a few days before the event.
+  <summary><b>Notes from the discussion</b></summary>  
+  Notes will be added after the event.
 </details>
 <br>
 
