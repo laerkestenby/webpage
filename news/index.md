@@ -20,13 +20,14 @@ Also, you can find links to our SoMe accounts on our personal profile pages unde
 The MLCP journal club is a monthly, interdisciplinary journal club for anyone interested in machine learning and/or clinical prediction.  We cover technical aspects, but the focus is ultimately on the practical, clinical use-cases of machine learning (e.g. for clinical prediction of cardiovascular disease), where we dissect pitfalls and limitations to cut through the hype. Anyone can join the journal club (e.g. students, clinicians, researchers from outside of Steno Aarhus), the only expectation is that you read the actual article before joining and come with an open mindset.
 
 ### Upcoming sessions
+
 **Date, time** Jan 22, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Lee YC et al. *Multimodal deep learning of fundus abnormalities and traditional risk factors for cardiovascular risk prediction*. [link](https://pubmed.ncbi.nlm.nih.gov/36732671/)
+**Article** Placido D et al. *A deep learning algorithm to predict risk of pancreatic cancer from disease trajectories*. [link](https://www.nature.com/articles/s41591-023-02332-5)
 
 **Date, time** Feb 26, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Placido D et al. *A deep learning algorithm to predict risk of pancreatic cancer from disease trajectories*. [link](https://www.nature.com/articles/s41591-023-02332-5)
+**Article** Lee YC et al. *Multimodal deep learning of fundus abnormalities and traditional risk factors for cardiovascular risk prediction*. [link](https://pubmed.ncbi.nlm.nih.gov/36732671/)
 
 **Date, time** Marts 25, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
