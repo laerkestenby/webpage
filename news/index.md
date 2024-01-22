@@ -22,7 +22,7 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 ### Upcoming sessions
 
 **Date, time** Jan 22, 12-13  
-**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Placido D et al. *A deep learning algorithm to predict risk of pancreatic cancer from disease trajectories*. [link](https://www.nature.com/articles/s41591-023-02332-5)
 
 **Date, time** Feb 26, 12-13  
