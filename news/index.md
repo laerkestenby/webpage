@@ -24,9 +24,22 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Location** Hjørnerummet (A401-109), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Lee YC et al. *Multimodal deep learning of fundus abnormalities and traditional risk factors for cardiovascular risk prediction*. [link](https://pubmed.ncbi.nlm.nih.gov/36732671/)
 
-**Date, time** Marts 25, 12-13  
+**Date, time** Mar 25, 12-13  
 **Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Fagherazzi G et al. *Voice for Health: The Use of Vocal Biomarkers from Research to Clinical Practice*. [link](https://pubmed.ncbi.nlm.nih.gov/34056518/)
+
+**Date, time** Apr 22, 12-13  
+**Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** TBA
+
+**Date, time** May 27, 12-13  
+**Location** Krearummet (A301-100), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** TBA
+
+**Date, time** Jun 24, 12-13  
+**Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** TBA
+
 
 ### Past sessions
 **Date, time** Jan 22, 12-13  
