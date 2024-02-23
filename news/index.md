@@ -26,7 +26,8 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **Date, time** Mar 18, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Fagherazzi G et al. *Voice for Health: The Use of Vocal Biomarkers from Research to Clinical Practice*. [link](https://pubmed.ncbi.nlm.nih.gov/34056518/)
+**Article** Kaufman JM et al. *Acoustic Analysis and Prediction of Type 2 Diabetes Mellitus Using Smartphone-Recorded Voice Segments*. [link](https://www.mcpdigitalhealth.org/action/showPdf?pii=S2949-7612%2823%2900073-1)
+**Recommended reading** Fagherazzi G et al. *Voice for Health: The Use of Vocal Biomarkers from Research to Clinical Practice*. [link](https://pubmed.ncbi.nlm.nih.gov/34056518/)
 
 **Date, time** Apr 22, 12-13  
 **Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
