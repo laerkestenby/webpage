@@ -21,10 +21,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 ### Upcoming sessions
 
-**Date, time** Apr 15, 12-13  
-**Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Collins et al. *Evaluation of clinical prediction models (part 1): from development to external validation*, BMJ. [link](https://www.bmj.com/content/384/bmj-2023-074819)
-
 **Date, time** May 27, 12-13  
 **Location** Krearummet (A301-100), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Deng et al. *Deep transfer learning and data augmentation improve glucose levels prediction in type 2 diabetes patients*, npj Digital Medicine. [link](https://www.nature.com/articles/s41746-021-00480-x)
@@ -35,6 +31,11 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 
 ### Past sessions
+
+**Date, time** Apr 15, 12-13  
+**Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** Collins et al. *Evaluation of clinical prediction models (part 1): from development to external validation*, BMJ. [link](https://www.bmj.com/content/384/bmj-2023-074819)
+
 **Date, time** Mar 18, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Kaufman JM et al. *Acoustic Analysis and Prediction of Type 2 Diabetes Mellitus Using Smartphone-Recorded Voice Segments*. [link](https://www.mcpdigitalhealth.org/action/showPdf?pii=S2949-7612%2823%2900073-1)  
