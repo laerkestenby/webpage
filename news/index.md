@@ -23,12 +23,11 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **Date, time** May 27, 12-13  
 **Location** Krearummet (A301-100), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Deng et al. *Deep transfer learning and data augmentation improve glucose levels prediction in type 2 diabetes patients*, npj Digital Medicine. [link](https://www.nature.com/articles/s41746-021-00480-x)
+**Article** Tang et al. *Evaluating large language models on medical evidence summarization*, npj Digital Medicine. [link](https://www.nature.com/articles/s41746-023-00896-7)
 
 **Date, time** Jun 24, 12-13  
 **Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Tang et al. *Evaluating large language models on medical evidence summarization*, npj Digital Medicine. [link](https://www.nature.com/articles/s41746-023-00896-7)
-
+**Article** Deng et al. *Deep transfer learning and data augmentation improve glucose levels prediction in type 2 diabetes patients*, npj Digital Medicine. [link](https://www.nature.com/articles/s41746-021-00480-x)
 
 ### Past sessions
 
