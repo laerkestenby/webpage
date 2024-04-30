@@ -50,6 +50,10 @@ helenethomsen:
 jonasschaarup:
   icon: fa-solid fa-face-grin-tongue-wink
   description: Associated PhD Student
+
+lærkejohansson:
+  icon: fa-solid fa-face-grin-tongue-wink
+  description: Research Assistant
 # team member roles
 
 pi:
