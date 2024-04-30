@@ -8,7 +8,7 @@ aliases:
 links:
   linkedin: lærke-stenby-johansson-7548a1206
   orcid: 
-  github: Superfrey
+  github:
 ---
 
 """ Jeg hedder Lærke """
