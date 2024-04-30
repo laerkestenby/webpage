@@ -47,6 +47,9 @@ helenethomsen:
   icon: fa-solid fa-heart-pulse
   description: PhD Student
 
+jonasschaarup:
+  icon: fa-solid fa-face-grin-tongue-wink
+  description: Associated PhD Student
 # team member roles
 
 pi:
