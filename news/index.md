@@ -12,7 +12,7 @@ Also, you can find links to our SoMe accounts on our personal profile pages unde
 {% include section.html %}
 
 ## Previous Newsletters
-[June, 2024]([https://mailchi.mp/rm/frrdr0n5n5-12691985?e=eaee5a6fe7])
+[June, 2024](https://mailchi.mp/rm/frrdr0n5n5-12691985?e=eaee5a6fe7)
 
 [October, 2023](https://mailchi.mp/rm/frrdr0n5n5)
 
