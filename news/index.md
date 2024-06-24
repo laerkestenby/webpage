@@ -23,11 +23,7 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 ### Upcoming sessions
 
-**Date, time** Jun 24, 12-13  
-**Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Deng et al. *Deep transfer learning and data augmentation improve glucose levels prediction in type 2 diabetes patients*, npj Digital Medicine. [link](https://www.nature.com/articles/s41746-021-00480-x)
-
-### **2024 Fall Plan (subject to change)**
+**2024 Fall Plan (subject to change)**
 
 **Date, time** Aug 26, 12-13  
 **Location** TBA, Steno Diabetes Center Aarhus  
@@ -51,6 +47,10 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **vs.** Storås et al. *Usefulness of Heat Map Explanations for Deep-Learning-Based Electrocardiogram Analysis*, MDPI. [link](https://www.mdpi.com/2075-4418/13/14/2345)
 
 ### Past sessions
+
+**Date, time** Jun 24, 12-13  
+**Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** Deng et al. *Deep transfer learning and data augmentation improve glucose levels prediction in type 2 diabetes patients*, npj Digital Medicine. [link](https://www.nature.com/articles/s41746-021-00480-x)
 
 **Date, time** May 27, 12-13  
 **Location** Krearummet (A301-100), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
