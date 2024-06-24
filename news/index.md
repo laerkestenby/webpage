@@ -27,6 +27,29 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Deng et al. *Deep transfer learning and data augmentation improve glucose levels prediction in type 2 diabetes patients*, npj Digital Medicine. [link](https://www.nature.com/articles/s41746-021-00480-x)
 
+### **2024 Fall Plan (subject to change)**
+
+**Date, time** Aug 26, 12-13  
+**Location** TBA, Steno Diabetes Center Aarhus  
+**Article** Hughes et al. *A deep learning-based electrocardiogram risk score for long term cardiovascular death and disease*, npj Digital Medicine. [link](https://www.nature.com/articles/s41746-023-00916-6)
+
+**Date, time** Sep 30, 12-13  
+**Location** TBA, Steno Diabetes Center Aarhus  
+**Article** Jiang et al. *Health system-scale language models are all-purpose prediction engines*, Nature. [link](https://www.nature.com/articles/s41586-023-06160-y)
+
+**Date, time** Oct 28, 12-13  
+**Location** TBA, Steno Diabetes Center Aarhus  
+**Article** Zhou et al. *A foundation model for generalizable disease detection from retinal images*, Nature. [link](https://www.nature.com/articles/s41586-023-06555-x)
+
+**Date, time** Nov 25, 12-13  
+**Location** TBA, Steno Diabetes Center Aarhus  
+**Article** Groh et al. *Deep learning-aided decision support for diagnosis of skin disease across skin tones*, Nature Medicine. [link](https://www.nature.com/articles/s41591-023-02728-3)
+
+**Date, time** Dec 16, 12-13  
+**Location** TBA, Steno Diabetes Center Aarhus  
+**Article** Hicks et al. *Explaining deep neural networks for knowledge discovery in electrocardiogram analysis*, Nature Scientific Reports. [link](https://www.nature.com/articles/s41598-021-90285-5)  
+**vs.** Storås et al. *Usefulness of Heat Map Explanations for Deep-Learning-Based Electrocardiogram Analysis*, MDPI. [link](https://www.mdpi.com/2075-4418/13/14/2345)
+
 ### Past sessions
 
 **Date, time** May 27, 12-13  
