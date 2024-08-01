@@ -1,7 +1,7 @@
 ---
 name: Manuel Mounir Demetry Thomasen
 image: images/manuel-thomasen.jpg
-description: Research Assistant
+description: PhD Student
 role: manuelthomasen
 aliases:
   - MMD. Thomasen
