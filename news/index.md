@@ -29,8 +29,8 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Hughes et al. *A deep learning-based electrocardiogram risk score for long term cardiovascular death and disease*, npj Digital Medicine. [link](https://www.nature.com/articles/s41746-023-00916-6)
 
-**Date, time** Sep 30, 12-13  
-**Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Date, time** Sep 23, 12-13  
+**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Jiang et al. *Health system-scale language models are all-purpose prediction engines*, Nature. [link](https://www.nature.com/articles/s41586-023-06160-y)
 
 **Date, time** Oct 28, 12-13  
