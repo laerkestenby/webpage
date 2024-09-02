@@ -23,11 +23,7 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 ### Upcoming sessions
 
-**2024 Fall Plan (subject to change)**
-
-**Date, time** Aug 26, 12-13  
-**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Hughes et al. *A deep learning-based electrocardiogram risk score for long term cardiovascular death and disease*, npj Digital Medicine. [link](https://www.nature.com/articles/s41746-023-00916-6)
+**2024 Fall Plan**
 
 **Date, time** Sep 23, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
@@ -47,6 +43,10 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **vs.** Storås et al. *Usefulness of Heat Map Explanations for Deep-Learning-Based Electrocardiogram Analysis*, MDPI. [link](https://www.mdpi.com/2075-4418/13/14/2345)
 
 ### Past sessions
+
+**Date, time** Aug 26, 12-13  
+**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** Hughes et al. *A deep learning-based electrocardiogram risk score for long term cardiovascular death and disease*, npj Digital Medicine. [link](https://www.nature.com/articles/s41746-023-00916-6)
 
 **Date, time** Jun 24, 12-13  
 **Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
